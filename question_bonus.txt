@@ -1,6 +1,6 @@
 Commande effectuée pour faire la mise à jour
 > utilise la liste d'actions sur https://update.angular.io/?v=9.0-11.0
-- ajout 
+- ajout "postinstall": "ngcc" dans les scripts exécutés
 - ng add @angular/localize
 - ng update @angular/core@10 @angular/cli@10
 
