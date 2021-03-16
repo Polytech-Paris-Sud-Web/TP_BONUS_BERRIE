@@ -1,0 +1,17 @@
+Commande effectuée pour faire la mise à jour
+> utilise la liste d'actions sur https://update.angular.io/?v=9.0-11.0
+- ajout 
+- ng add @angular/localize
+- ng update @angular/core@10 @angular/cli@10
+
+Angular 10
+- Ajout d'un mode strict pour les applications angular, qui permet de réduire
+- supporte Typescript 3.9
+- Optimise la traduction de l'application
+
+Angular 11
+- supporte Typescript 4.0
+- nouvelle API de Trust Types qui permet de prévenir les attaques XSS. Le navigateur doit etre compatible
+- support expérimental de webpack 5 pour les déploiements, qui introduit une compatibilité entre différents modules webpack
+- Améliore les performance du routeur et du chargement des typographies
+- ajoute de nouveaux messages d'erreur pour la programation et les services worker
