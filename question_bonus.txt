@@ -3,6 +3,7 @@ Commande effectuée pour faire la mise à jour
 - ajout "postinstall": "ngcc" dans les scripts exécutés
 - ng add @angular/localize
 - ng update @angular/core@10 @angular/cli@10
+- ng update @angular/core @angular/cli
 
 Angular 10
 - Ajout d'un mode strict pour les applications angular, qui permet de réduire
